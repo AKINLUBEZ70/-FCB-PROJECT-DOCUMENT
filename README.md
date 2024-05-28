@@ -1,2 +1,2 @@
 # FCB PROJECT DOCUMENT
-## PROJECT OUTLINE
+## PROJECT OUTLINE: This project aim at analysing the 
