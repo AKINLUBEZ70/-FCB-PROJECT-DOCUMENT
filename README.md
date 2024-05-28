@@ -8,5 +8,4 @@ Analysis Plan: Outline the specific analyses you plan to perform, including any 
 ## DATA SOURCE
 Data was gotten from excel
 SELECT * FOR TABLE 1 WHERE CONDITION = NET
-![](Screenshot_20210704-141606)
 ![](DATACLEANINGCYCLE)
